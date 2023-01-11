@@ -15,7 +15,7 @@
     "gatsby-plugin-snipcart": "^1.1.2",
     "gatsby-source-contentful": "^2.2.7",
     "gatsby-source-filesystem": "^2.2.2",
-    "gatsby-transformer-remark": "^2.7.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.4.3",
     "netlify-identity-widget": "^1.5.6",
     "prop-types": "^15.7.2",
